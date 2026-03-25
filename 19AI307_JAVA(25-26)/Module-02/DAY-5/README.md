@@ -37,8 +37,8 @@ To implement access modifiers in Java using both static and non-static methods w
 ## PROGRAM:
  ```
 Program to implement a Access Modifiers using Java
-Developed by: ASHIKA TR
-RegisterNumber: 212224220011
+Developed by: AKASH CT
+RegisterNumber: 212224240007
 
 ```
 

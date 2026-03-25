@@ -33,8 +33,8 @@ To write a Java program to implement Classes and Objects using a Car class and d
 ## PROGRAM:
  ```
 Program to implement a Class and Objects using Java
-Developed by: ASHIKA TR
-RegisterNumber: 212224220011
+Developed by: AKASH CT
+RegisterNumber: 212224240007
 ```
 
 ## SOURCE CODE:

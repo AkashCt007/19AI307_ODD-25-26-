@@ -28,9 +28,10 @@ To write a Java program to implement methods in Java by passing a string as a pa
 
 ## PROGRAM:
  ```
+
 Program to implement a Methods using Java
-Developed by:ASHIKA TR
-RegisterNumber: 212224220011
+Developed by: AKASH CT
+RegisterNumber: 212224240007
 
 ```
 
